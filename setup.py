@@ -35,10 +35,10 @@ setup(
     ],
     license="LGPL 3",
     install_requires=[
-        "pydot==1.0.28",
+        "pydot==1.0.2",
         "pysmell==0.7.3",
         "pyplete==0.0.2",
-        "python-graph-core==1.8.1",
+        "python-graph-core==1.8.2",
         "python-graph-dot==1.8.1",
         "django-form-admin==0.3.2"
     ],
