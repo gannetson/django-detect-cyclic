@@ -39,7 +39,7 @@ setup(
         "pysmell==0.7.3",
         "pyplete==0.0.2",
         "python-graph-core==1.8.2",
-        "python-graph-dot==1.8.1",
+        "python-graph-dot==1.8.2",
         "django-form-admin==0.3.2"
     ],
     keywords="django,imports,cycle,cyclic imports,analyze code",
